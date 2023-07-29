@@ -1,4 +1,4 @@
-Income,Lot_Size,Ownership,Y.ownership,Prob1,Prob2
+Income,Lot_Size,Ownership,Y,Prob1,Prob2
 60,18.4,owner,1,0.174627397,0.407124615
 85.5,16.8,owner,1,0.433316363,0.197349864
 64.8,21.6,owner,1,0.887258012,0.842677551
